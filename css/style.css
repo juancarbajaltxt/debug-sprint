@@ -1,0 +1,21 @@
+.grid-container {
+    display: grid;
+    /* Hint: To change layout of grid look at
+    line 5 */
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+}
+
+.grid-item {
+    text-align: center;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+}
+
+#txtLogo{
+    /* Make the image size smaller */
+}
+
+#myButton{
+    height: 50px;
+    width: 75px;
+}
