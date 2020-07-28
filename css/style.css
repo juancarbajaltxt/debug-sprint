@@ -1,7 +1,7 @@
 .grid-container {
     display: grid;
     /* Hint: To change layout of grid look at
-    line 5 */
+    line 5. Mess around with it to see how it works*/
     grid-template-columns: auto auto auto;
     padding: 10px;
 }
